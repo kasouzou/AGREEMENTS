@@ -6,12 +6,14 @@
 
 ### プライバシーポリシーを作るとき
 - privacy_policy/に移動してCodexを起動
-- 「”アプリのルートディレクトリのパスをここで指定する” において、CREATEPRIVACYPOLICY.md　を起点に作業を開始してください。」←このようにプロンプトを入力してEnter
+- 「"アプリのルートパスを指定する" において、CREATEPRIVACYPOLICY.md　を起点に作業を開始してください。」←このようにプロンプトを入力してEnter
+英語版→「Under "アプリのルートパスを指定する" please begin the work starting with CREATEPRIVACYPOLICY.md.」
 - 作成されたプライバシーポリシーはアプリのルートディレクトリにPRIVACYPOLICY.htmlという形式で出力されます。
 
 ### 利用規約を作るとき
 - terms_of_use/に移動してCodexを起動
-- 「”アプリのルートディレクトリのパスをここで指定する”において、CREATETERMSOFUSE.md　を起点に作業を開始してください。」←このようにプロンプトを入力してEnter
+- 「"アプリのルートパスを指定する"において、CREATETERMSOFUSE.md　を起点に作業を開始してください。」←このようにプロンプトを入力してEnter
+英語版→「Under "アプリのルートパスを指定する" please begin the work starting with CREATETERMSOFUSE.md.」
 - 作成された利用規約はアプリのルートディレクトリにTERMSOFUSE.htmlとして出力されます。
 
 
